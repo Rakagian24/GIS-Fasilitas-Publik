@@ -11,7 +11,7 @@ class FasilitasSeeder extends Seeder
     public function run(): void
     {
         // Path ke file CSV
-        $filePath = database_path('seeders/stasiun_kota_bandung.csv'); // Letakkan file di direktori seeders
+        $filePath = database_path('seeders/bank_kota_bandung.csv'); // Letakkan file di direktori seeders
         $csv = Reader::createFromPath($filePath, 'r');
         $csv->setHeaderOffset(0); // Baris pertama sebagai header
 

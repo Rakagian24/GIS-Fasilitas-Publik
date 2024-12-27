@@ -1,10 +1,10 @@
 <div class="iq-sidebar  sidebar-default  ">
     <div class="iq-sidebar-logo d-flex align-items-end justify-content-between">
         <a href="../backend/index.html" class="header-logo">
-            <img src="{{ asset('images/logo.png') }}" class="img-fluid rounded-normal light-logo" alt="logo">
-            <img src="{{ asset('images/logo-dark.png') }}" class=" img-fluid rounded-normal d-none sidebar-light-img"
-                alt="logo">
-            <span>Datum</span>
+            <img src="{{ asset('images/location-pin.png') }}" class="img-fluid rounded-normal light-logo" alt="logo">
+            <img src="{{ asset('images/location-pin-dark.png') }}"
+                class=" img-fluid rounded-normal d-none sidebar-light-img" alt="logo">
+            <span>GeoPub</span>
         </a>
         <div class="side-menu-bt-sidebar-1">
             <svg xmlns="http://www.w3.org/2000/svg" class="text-light wrapper-menu" width="30" fill="none"
@@ -107,7 +107,7 @@
                                 id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true"
                                 aria-expanded="false">
                                 {{-- <img src="images/user/1.jpg" class="img-fluid avatar-rounded" alt="user"> --}}
-                                <span class="mb-0 ml-2 user-name">John Doe</span>
+                                <span class="mb-0 ml-2 user-name">Raka Gian</span>
                             </a>
                             <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
                                 <li class="dropdown-item d-flex svg-icon">

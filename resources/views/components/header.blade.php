@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Datum | CRM Admin Dashboard Template</title>
+    <title>GeoPub | GIS Public Facilities</title>
 
     <!-- Favicon -->
     {{-- <link rel="shortcut icon" href="images/favicon.ico" /> --}}
